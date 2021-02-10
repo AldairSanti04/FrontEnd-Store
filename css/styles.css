@@ -146,8 +146,8 @@ h3 {
 .grafico {
     min-height: 30rem;
     background-repeat: no-repeat;
-    background-size: cover;
     grid-column: 1 / 3;
+    background-position: center center;
 }
 
 .grafico--camisas {

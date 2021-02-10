@@ -115,7 +115,6 @@ h3 {
 
 @media (min-width: 768px) {
     .grid {
-        display: grid;
         grid-template-columns: repeat(3, 1fr);
     }
 }
@@ -133,10 +132,6 @@ h3 {
 .producto__precio {
     font-size: 2.8rem;
     color: var(--secundario);
-}
-
-.producto__imagen {
-    width: 100%;
 }
 
 .producto__nombre,
